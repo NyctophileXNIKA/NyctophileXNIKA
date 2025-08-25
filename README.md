@@ -49,7 +49,7 @@ Additional optional proof:
 
 ---
 
-# 👋 Hello! I'm Ryougaa Hideki
+# 👋 Hello! I'm Nyctophile Schizophrenia.
 
 Welcome to my GitHub profile! I'm a developer with a keen interest in Python.
 

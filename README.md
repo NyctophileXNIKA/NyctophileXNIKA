@@ -80,6 +80,6 @@ Welcome to my GitHub profile! I'm a developer with a keen interest in Python.
 
 ### 🌐 Connect With Me
 
-- **Instagram:** [Ven Ryougaa](https://instagram.com/v3n.ryougaa)  
-- **Facebook:** [Ryoo Kun](https://www.facebook.com/Nyctophile.Schizophrenia)  
-- **WhatsApp:** [ryooo](https://wa.me/6285797527437)
+- [**Instagram**](https://instagram.com/v3n.ryougaa)  
+- [**Facebook**](https://www.facebook.com/Nyctophile.Schizophrenia)  
+- [**WhatsApp**](https://wa.me/6285797527437)
